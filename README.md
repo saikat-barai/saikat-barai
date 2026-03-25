@@ -20,8 +20,8 @@ Passionate about building scalable web & mobile applications using modern techno
 
 | Project | Description |
 |------|------|
-| https://kajerhut.com | Service marketplace platform |
-| https://rawfitz.com | Fitness & lifestyle brand website |
+| https://kajerhut.com | Multi Services marketplace platform |
+| https://rawfitz.com | Ecommerce & clothing brand website |
 | https://roseskinbd.com | Beauty & skincare eCommerce |
 
 ---
